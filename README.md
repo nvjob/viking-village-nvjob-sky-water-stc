@@ -2,6 +2,8 @@
 
 This is a demonstration of the work of #NVJOB shaders in conjunction with the Unity Viking Village.
 
+https://www.youtube.com/watch?v=ALo3AYyVWcY
+
 ------------------------------------
 
 #NVJOB Water Shader: https://assetstore.unity.com/packages/vfx/shaders/nvjob-water-shader-simple-and-fast-149916
