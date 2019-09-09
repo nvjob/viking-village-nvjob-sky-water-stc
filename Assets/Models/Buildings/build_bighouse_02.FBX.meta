@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 2ccd6dd4f39d8764b975081e71ad95c0
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: build_bighouse_02_door_01
+    100004: build_bighouse_02_gables_01
+    100006: build_bighouse_02_logwall_back_01
+    100008: build_bighouse_02_logwall_front_01
+    100010: build_bighouse_02_logwall_left_01
+    100012: build_bighouse_02_logwall_right_01
+    100014: build_bighouse_02_porch_01
+    100016: build_bighouse_02_walls_01
+    100018: build_bighouse_02_walls_02
+    100020: Object044
+    100022: Object100
+    100024: Object105
+    100026: pCylinder3
+    100028: build_bighouse_02
+    100030: pCube1
+    400000: //RootNode
+    400002: build_bighouse_02_door_01
+    400004: build_bighouse_02_gables_01
+    400006: build_bighouse_02_logwall_back_01
+    400008: build_bighouse_02_logwall_front_01
+    400010: build_bighouse_02_logwall_left_01
+    400012: build_bighouse_02_logwall_right_01
+    400014: build_bighouse_02_porch_01
+    400016: build_bighouse_02_walls_01
+    400018: build_bighouse_02_walls_02
+    400020: Object044
+    400022: Object100
+    400024: Object105
+    400026: pCylinder3
+    400028: build_bighouse_02
+    400030: pCube1
+    2300000: build_bighouse_02_door_01
+    2300002: build_bighouse_02_gables_01
+    2300004: build_bighouse_02_logwall_back_01
+    2300006: build_bighouse_02_logwall_front_01
+    2300008: build_bighouse_02_logwall_left_01
+    2300010: build_bighouse_02_logwall_right_01
+    2300012: build_bighouse_02_porch_01
+    2300014: build_bighouse_02_walls_01
+    2300016: build_bighouse_02_walls_02
+    2300018: Object044
+    2300020: Object100
+    2300022: Object105
+    2300024: pCylinder3
+    2300026: //RootNode
+    2300028: build_bighouse_02
+    2300030: pCube1
+    3300000: build_bighouse_02_door_01
+    3300002: build_bighouse_02_gables_01
+    3300004: build_bighouse_02_logwall_back_01
+    3300006: build_bighouse_02_logwall_front_01
+    3300008: build_bighouse_02_logwall_left_01
+    3300010: build_bighouse_02_logwall_right_01
+    3300012: build_bighouse_02_porch_01
+    3300014: build_bighouse_02_walls_01
+    3300016: build_bighouse_02_walls_02
+    3300018: Object044
+    3300020: Object100
+    3300022: Object105
+    3300024: pCylinder3
+    3300026: //RootNode
+    3300028: build_bighouse_02
+    3300030: pCube1
+    4300000: pCylinder3
+    4300002: build_bighouse_02_porch_01
+    4300004: Object044
+    4300006: build_bighouse_02_logwall_back_01
+    4300008: build_bighouse_02_gables_01
+    4300010: build_bighouse_02_walls_02
+    4300012: build_bighouse_02_door_01
+    4300014: Object100
+    4300016: build_bighouse_02_walls_01
+    4300018: Object105
+    4300020: build_bighouse_02_logwall_left_01
+    4300022: build_bighouse_02_logwall_right_01
+    4300024: build_bighouse_02_logwall_front_01
+    4300026: build_bighouse_02
+    4300028: pCube1
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 

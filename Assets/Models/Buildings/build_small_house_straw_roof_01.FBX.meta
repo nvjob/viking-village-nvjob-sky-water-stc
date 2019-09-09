@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: d2504d68eaca7e141a7898d1a61bf0c8
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: build_small_house_straw_roof_01_door_01
+    100004: build_small_house_straw_roof_01_gables_01
+    100006: build_small_house_straw_roof_01_logwall_back_01
+    100008: build_small_house_straw_roof_01_logwall_front_01
+    100010: build_small_house_straw_roof_01_logwall_left_01
+    100012: build_small_house_straw_roof_01_logwall_right_01
+    100014: Object092
+    100016: Object099
+    100018: Object100
+    100020: Object100 1
+    100022: Object101
+    100024: Object102
+    100026: Object103
+    100028: Object104
+    100030: pCylinder5
+    100032: polySurface7740
+    100034: build_small_house_straw_roof_01_straw_roof_01
+    100036: build_small_house_straw_roof_01_wooden_elements_01
+    100038: build_small_house_straw_roof_01_roof_beams_01
+    100040: build_small_house_straw_roof_01
+    400000: //RootNode
+    400002: build_small_house_straw_roof_01_door_01
+    400004: build_small_house_straw_roof_01_gables_01
+    400006: build_small_house_straw_roof_01_logwall_back_01
+    400008: build_small_house_straw_roof_01_logwall_front_01
+    400010: build_small_house_straw_roof_01_logwall_left_01
+    400012: build_small_house_straw_roof_01_logwall_right_01
+    400014: Object092
+    400016: Object099
+    400018: Object100
+    400020: Object100 1
+    400022: Object101
+    400024: Object102
+    400026: Object103
+    400028: Object104
+    400030: pCylinder5
+    400032: polySurface7740
+    400034: build_small_house_straw_roof_01_straw_roof_01
+    400036: build_small_house_straw_roof_01_wooden_elements_01
+    400038: build_small_house_straw_roof_01_roof_beams_01
+    400040: build_small_house_straw_roof_01
+    2300000: build_small_house_straw_roof_01_door_01
+    2300002: build_small_house_straw_roof_01_gables_01
+    2300004: build_small_house_straw_roof_01_logwall_back_01
+    2300006: build_small_house_straw_roof_01_logwall_front_01
+    2300008: build_small_house_straw_roof_01_logwall_left_01
+    2300010: build_small_house_straw_roof_01_logwall_right_01
+    2300012: Object092
+    2300014: Object099
+    2300016: Object100
+    2300018: Object100 1
+    2300020: Object101
+    2300022: Object102
+    2300024: Object103
+    2300026: Object104
+    2300028: pCylinder5
+    2300030: polySurface7740
+    2300032: build_small_house_straw_roof_01_straw_roof_01
+    2300034: build_small_house_straw_roof_01_wooden_elements_01
+    2300036: build_small_house_straw_roof_01_roof_beams_01
+    2300038: build_small_house_straw_roof_01
+    2300040: //RootNode
+    3300000: build_small_house_straw_roof_01_door_01
+    3300002: build_small_house_straw_roof_01_gables_01
+    3300004: build_small_house_straw_roof_01_logwall_back_01
+    3300006: build_small_house_straw_roof_01_logwall_front_01
+    3300008: build_small_house_straw_roof_01_logwall_left_01
+    3300010: build_small_house_straw_roof_01_logwall_right_01
+    3300012: Object092
+    3300014: Object099
+    3300016: Object100
+    3300018: Object100 1
+    3300020: Object101
+    3300022: Object102
+    3300024: Object103
+    3300026: Object104
+    3300028: pCylinder5
+    3300030: polySurface7740
+    3300032: build_small_house_straw_roof_01_straw_roof_01
+    3300034: build_small_house_straw_roof_01_wooden_elements_01
+    3300036: build_small_house_straw_roof_01_roof_beams_01
+    3300038: build_small_house_straw_roof_01
+    3300040: //RootNode
+    4300000: build_small_house_straw_roof_01_logwall_front_01
+    4300002: polySurface7740
+    4300004: pCylinder5
+    4300006: build_small_house_straw_roof_01_gables_01
+    4300008: Object092
+    4300010: build_small_house_straw_roof_01_logwall_back_01
+    4300012: build_small_house_straw_roof_01_logwall_left_01
+    4300014: build_small_house_straw_roof_01_logwall_right_01
+    4300016: Object099
+    4300018: Object100
+    4300020: Object101
+    4300022: Object102
+    4300024: Object103
+    4300026: Object104
+    4300028: build_small_house_straw_roof_01_door_01
+    4300030: Object100
+    4300032: build_small_house_straw_roof_01_straw_roof_01
+    4300034: build_small_house_straw_roof_01_wooden_elements_01
+    4300036: build_small_house_straw_roof_01_roof_beams_01
+    4300038: build_small_house_straw_roof_01
+    4300040: build_small_house_straw_roof_02
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
