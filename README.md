@@ -1,5 +1,8 @@
 # Unity Viking Village + #NVJOB Water Shader, Dynamic Sky, STC (Demo)
 
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/Viking-Village-NVJOB-Sky-Water-STC/master/Images/Demo%20(3).png)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/Viking-Village-NVJOB-Sky-Water-STC/master/Images/Demo%20(2).png)
+
 This is a demonstration of the work of #NVJOB shaders in conjunction with the Unity Viking Village.
 
 https://www.youtube.com/watch?v=ALo3AYyVWcY
