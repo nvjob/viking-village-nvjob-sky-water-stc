@@ -1,5 +1,7 @@
 # Viking Village + #NVJOB Water Shader, Dynamic Sky, STC (Demo)
 
+------------------------------------
+
 This is a demonstration of the work of #NVJOB shaders in conjunction with the Unity Viking Village.
 
 #NVJOB Water Shader: https://assetstore.unity.com/packages/vfx/shaders/nvjob-water-shader-simple-and-fast-149916
@@ -11,7 +13,6 @@ This is a demonstration of the work of #NVJOB shaders in conjunction with the Un
 #NVJOB Specular Shaders: https://github.com/nvjob/NVJOB-Specular-Customizable-Shaders
 
 Viking Village: https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-29140
-
 
 ------------------------------------
 
