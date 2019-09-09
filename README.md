@@ -18,8 +18,8 @@ Viking Village: https://assetstore.unity.com/packages/essentials/tutorial-projec
 
 ### Prerequisites
 
-To work on the project, you will need a Unity version of at least 2019.1.0f2 (64-bit).
+To work on the project, you will need a Unity version of at least 2019.1.8f1 (64-bit).
 
 ### Information
 
-The movement of the waves is carried out using global shader variables: 
+After downloading the repository, unzip the "Lighting Data.zip" archive, which is located in the "\Assets\Scenes\" directory.
