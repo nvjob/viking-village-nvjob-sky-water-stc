@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=ALo3AYyVWcY
 
 #NVJOB Specular Shaders: https://github.com/nvjob/NVJOB-Specular-Customizable-Shaders
 
+#NVJOB FPS Counter and Graph: https://github.com/nvjob/Unity-FPS-Counter
+
 Unity Viking Village: https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-29140
 
 ------------------------------------
