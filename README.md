@@ -30,5 +30,6 @@ To work on the project, you will need a Unity version of at least 2019.1.8f1 (64
 ### Information
 
 After downloading the repository, unzip the "Lighting Data.zip" archive, which is located in the "\Assets\Scenes\" directory.
+Light was baked using the AMD Radeon Rays GPU Progressive Lightmapper.
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/Viking-Village-NVJOB-Sky-Water-STC/master/Images/Lighting%20Data.png)
