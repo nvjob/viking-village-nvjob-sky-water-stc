@@ -33,3 +33,14 @@ After downloading the repository, unzip the "Lighting Data.zip" archive, which i
 Light was baked using the AMD Radeon Rays GPU Progressive Lightmapper.
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/Viking-Village-NVJOB-Sky-Water-STC/master/Images/Lighting%20Data.png)
+
+-------------------------------------------------------------------
+
+### Authors
+Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
+
+### License
+#NVJOB assets in this project are licensed under MIT
+
+### Donate
+Help for this project - https://nvjob.github.io/donate
