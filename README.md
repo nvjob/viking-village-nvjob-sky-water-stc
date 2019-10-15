@@ -9,16 +9,11 @@ https://www.youtube.com/watch?v=ALo3AYyVWcY
 
 ------------------------------------
 
-#NVJOB Water Shader: https://assetstore.unity.com/packages/vfx/shaders/nvjob-water-shader-simple-and-fast-149916
-
-#NVJOB Dynamic Sky: https://assetstore.unity.com/packages/vfx/particles/environment/nvjob-dynamic-sky-simple-and-fast-152747
-
-#NVJOB Shader for Unity SpeedTree (STC): https://github.com/nvjob/NVGen-Shader-for-Unity-SpeedTree
-
-#NVJOB Specular Shaders: https://github.com/nvjob/NVJOB-Specular-Customizable-Shaders
-
-#NVJOB FPS Counter and Graph: https://github.com/nvjob/Unity-FPS-Counter
-
+#NVJOB Water Shader: https://assetstore.unity.com/packages/vfx/shaders/nvjob-water-shader-simple-and-fast-149916 <br/>
+#NVJOB Dynamic Sky: https://assetstore.unity.com/packages/vfx/particles/environment/nvjob-dynamic-sky-simple-and-fast-152747 <br/>
+#NVJOB Shader for Unity SpeedTree (STC): https://github.com/nvjob/NVGen-Shader-for-Unity-SpeedTree <br/>
+#NVJOB Specular Shaders: https://github.com/nvjob/NVJOB-Specular-Customizable-Shaders <br/>
+#NVJOB FPS Counter and Graph: https://github.com/nvjob/Unity-FPS-Counter <br/>
 Unity Viking Village: https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-29140
 
 ------------------------------------
