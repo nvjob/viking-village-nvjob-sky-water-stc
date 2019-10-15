@@ -32,6 +32,8 @@ Light was baked using the AMD Radeon Rays GPU Progressive Lightmapper.
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/devlog/viking%20village%20and%20nvjob/101/pic/5.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/devlog/viking%20village%20and%20nvjob/101/pic/11.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/devlog/viking%20village%20and%20nvjob/101/pic/9.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/devlog/viking%20village%20and%20nvjob/101/pic/7.jpg)
 
 -------------------------------------------------------------------
 
