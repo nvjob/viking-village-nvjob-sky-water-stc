@@ -1,7 +1,6 @@
 # Unity Viking Village + #NVJOB Water Shader, Dynamic Sky, STC (Demo)
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/devlog/viking%20village%20and%20nvjob/101/pic/12.jpg)
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/devlog/viking%20village%20and%20nvjob/101/pic/11.jpg)
 
 This is a demonstration of the work of #NVJOB shaders in conjunction with the Unity Viking Village.
 
@@ -28,6 +27,11 @@ After downloading the repository, unzip the "Lighting Data.zip" archive, which i
 Light was baked using the AMD Radeon Rays GPU Progressive Lightmapper.
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/devlog/viking%20village%20and%20nvjob/101/pic/18.jpg)
+
+-------------------------------------------------------------------
+
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/devlog/viking%20village%20and%20nvjob/101/pic/5.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/devlog/viking%20village%20and%20nvjob/101/pic/11.jpg)
 
 -------------------------------------------------------------------
 
