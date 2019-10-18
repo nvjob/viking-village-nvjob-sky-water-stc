@@ -42,6 +42,7 @@ Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
 MIT License (#NVJOB Assets) - https://nvjob.github.io/mit-license
+Viking Village - Unity Assets
 
 ### Donate
 Help for this project - https://nvjob.github.io/donate
