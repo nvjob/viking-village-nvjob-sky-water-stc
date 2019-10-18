@@ -41,7 +41,7 @@ Light was baked using the AMD Radeon Rays GPU Progressive Lightmapper.
 Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
-#NVJOB assets in this project are licensed under MIT
+MIT License - https://nvjob.github.io/mit-license
 
 ### Donate
 Help for this project - https://nvjob.github.io/donate
