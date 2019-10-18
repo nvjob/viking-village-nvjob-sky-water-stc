@@ -41,8 +41,8 @@ Light was baked using the AMD Radeon Rays GPU Progressive Lightmapper.
 Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
-MIT License (#NVJOB Assets) - https://nvjob.github.io/mit-license <br>
-Viking Village - Unity Assets
+#NVJOB Assets - MIT License (https://nvjob.github.io/mit-license)<br/>
+Viking Village - It is intended for use in non-commercial content for educational purposes only. An asset cannot be resold (https://unity3d.com/unity/faq).
 
 ### Donate
 Help for this project - https://nvjob.github.io/donate
