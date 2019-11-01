@@ -46,3 +46,6 @@ Viking Village - It is intended for use in non-commercial content for educationa
 
 ### Donate
 Help for this project - https://nvjob.github.io/donate
+
+### Report a Problem
+Report a Problem / Issue Tracker / FAQ - https://nvjob.github.io/reportaproblem
