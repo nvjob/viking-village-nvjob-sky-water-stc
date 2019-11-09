@@ -19,11 +19,9 @@ Unity Viking Village - [download from Unity Asset Store](https://assetstore.unit
 ------------------------------------
 
 ### Prerequisites
-
 To work on the project, you will need a Unity version of at least 2019.1.8f1 (64-bit).
 
 ### Information
-
 After downloading the repository, unzip the "Lighting Data.zip" archive, which is located in the "\Assets\Scenes\" directory.
 Light was baked using the AMD Radeon Rays GPU Progressive Lightmapper.
 
