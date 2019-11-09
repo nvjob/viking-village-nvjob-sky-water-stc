@@ -9,12 +9,12 @@ This is a demonstration of the work of #NVJOB shaders in conjunction with the Un
 
 ------------------------------------
 
-#NVJOB Water Shader: [nvjob.github.io/unity/nvjob-water-shader](https://nvjob.github.io/unity/nvjob-water-shader) <br/>
-#NVJOB Dynamic Sky Lite: [nvjob.github.io/unity/nvjob-dynamic-sky-lite](https://nvjob.github.io/unity/nvjob-dynamic-sky-lite) <br/>
-#NVJOB Shader for Unity SpeedTree (STC): [nvjob.github.io/unity/nvjob-stc](https://nvjob.github.io/unity/nvjob-stc) <br/>
-#NVJOB Specular Shaders: [nvjob.github.io/unity/nvjob-sc-shaders](https://nvjob.github.io/unity/nvjob-sc-shaders) <br/>
-#NVJOB FPS Counter and Graph: [nvjob.github.io/unity/nvjob-fps-counter-and-graph](https://nvjob.github.io/unity/nvjob-fps-counter-and-graph) <br/>
-Unity Viking Village: [Download from Unity Asset Store](https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-29140)
+#NVJOB Water Shader - [nvjob.github.io/unity/nvjob-water-shader](https://nvjob.github.io/unity/nvjob-water-shader) <br/>
+#NVJOB Dynamic Sky Lite - [nvjob.github.io/unity/nvjob-dynamic-sky-lite](https://nvjob.github.io/unity/nvjob-dynamic-sky-lite) <br/>
+#NVJOB Shader for Unity SpeedTree (STC) - [nvjob.github.io/unity/nvjob-stc](https://nvjob.github.io/unity/nvjob-stc) <br/>
+#NVJOB Specular Shaders - [nvjob.github.io/unity/nvjob-sc-shaders](https://nvjob.github.io/unity/nvjob-sc-shaders) <br/>
+#NVJOB FPS Counter and Graph - [nvjob.github.io/unity/nvjob-fps-counter-and-graph](https://nvjob.github.io/unity/nvjob-fps-counter-and-graph) <br/>
+Unity Viking Village - [download from Unity Asset Store](https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-29140)
 
 ------------------------------------
 
