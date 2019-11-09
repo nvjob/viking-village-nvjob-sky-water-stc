@@ -5,16 +5,16 @@
 
 This is a demonstration of the work of #NVJOB shaders in conjunction with the Unity Viking Village.
 
-https://www.youtube.com/watch?v=ALo3AYyVWcY
+[youtube.com/watch?v=ALo3AYyVWcY](https://www.youtube.com/watch?v=ALo3AYyVWcY)
 
 ------------------------------------
 
-#NVJOB Water Shader: https://assetstore.unity.com/packages/vfx/shaders/nvjob-water-shader-simple-and-fast-149916 <br/>
-#NVJOB Dynamic Sky: https://assetstore.unity.com/packages/vfx/particles/environment/nvjob-dynamic-sky-simple-and-fast-152747 <br/>
-#NVJOB Shader for Unity SpeedTree (STC): https://github.com/nvjob/NVGen-Shader-for-Unity-SpeedTree <br/>
-#NVJOB Specular Shaders: https://github.com/nvjob/NVJOB-Specular-Customizable-Shaders <br/>
-#NVJOB FPS Counter and Graph: https://github.com/nvjob/Unity-FPS-Counter <br/>
-Unity Viking Village: https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-29140
+#NVJOB Water Shader: [nvjob.github.io/unity/nvjob-water-shader](https://nvjob.github.io/unity/nvjob-water-shader) <br/>
+#NVJOB Dynamic Sky Lite: [nvjob.github.io/unity/nvjob-dynamic-sky-lite](https://nvjob.github.io/unity/nvjob-dynamic-sky-lite) <br/>
+#NVJOB Shader for Unity SpeedTree (STC): [nvjob.github.io/unity/nvjob-stc](https://nvjob.github.io/unity/nvjob-stc) <br/>
+#NVJOB Specular Shaders: [nvjob.github.io/unity/nvjob-sc-shaders](https://nvjob.github.io/unity/nvjob-sc-shaders) <br/>
+#NVJOB FPS Counter and Graph: [nvjob.github.io/unity/nvjob-fps-counter-and-graph](https://nvjob.github.io/unity/nvjob-fps-counter-and-graph) <br/>
+Unity Viking Village: [Download from Unity Asset Store](https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-29140)
 
 ------------------------------------
 
@@ -38,15 +38,10 @@ Light was baked using the AMD Radeon Rays GPU Progressive Lightmapper.
 
 -------------------------------------------------------------------
 
-### Authors
-Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
+**Authors:** #NVJOB Nicholas Veselov - [nvjob.github.io](https://nvjob.github.io)
 
-### License
-#NVJOB Assets - MIT License (https://nvjob.github.io/mit-license)<br/>
-Viking Village - It is intended for use in non-commercial content for educational purposes only. An asset cannot be resold (https://unity3d.com/unity/faq).
+**License:** MIT License. Clarification of licenses - [nvjob.github.io/mit-license](https://nvjob.github.io/mit-license)
 
-### Donate
-Help for this project - https://nvjob.github.io/donate
+**Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
 
-### Report a Problem
-Report a Problem / Issue Tracker / FAQ - https://nvjob.github.io/reportaproblem
+**Report a Problem / Issue Tracker / FAQ:** [nvjob.github.io/reportaproblem](https://nvjob.github.io/reportaproblem)
