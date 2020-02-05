@@ -42,5 +42,3 @@ Light was baked using the AMD Radeon Rays GPU Progressive Lightmapper.
 Viking Village - It is intended for use in non-commercial content for educational purposes only [unity3d.com/unity/faq](https://unity3d.com/unity/faq).
 
 **Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
-
-**Report a Problem / Issue Tracker / FAQ:** [nvjob.github.io/reportaproblem](https://nvjob.github.io/reportaproblem)
