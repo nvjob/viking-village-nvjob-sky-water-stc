@@ -36,6 +36,11 @@ Light was baked using the AMD Radeon Rays GPU Progressive Lightmapper.
 
 -------------------------------------------------------------------
 
+**Patrons:** [nvjob.github.io/patrons](https://nvjob.github.io/patrons)<br>
+*You can become one of the patrons, or make a sponsorship donation.*
+
+-------------------------------------------------------------------
+
 **Authors:** #NVJOB Nicholas Veselov - [nvjob.github.io](https://nvjob.github.io)
 
 **License:** #NVJOB Assets - MIT License. [Clarification of licenses](https://nvjob.github.io/mit-license)<br/>
