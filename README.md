@@ -41,9 +41,9 @@ Light was baked using the AMD Radeon Rays GPU Progressive Lightmapper.
 
 -------------------------------------------------------------------
 
-**Authors:** #NVJOB Nicholas Veselov - [nvjob.github.io](https://nvjob.github.io)
+**Authors:** [#NVJOB. Developer Nicholas Veselov. Разработчик Николай Веселов. Санкт-Петербург.](https://nvjob.github.io)
 
 **License:** #NVJOB Assets - MIT License. [Clarification of licenses](https://nvjob.github.io/mit-license)<br/>
 Viking Village - It is intended for use in non-commercial content for educational purposes only [unity3d.com/unity/faq](https://unity3d.com/unity/faq).
 
-**Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
+**Support:** [Report a Problem](https://nvjob.github.io/reportaproblem/).
